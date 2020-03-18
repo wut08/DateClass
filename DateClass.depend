@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584547225 source:c:\users\tong\desktop\c++odes\dateclass\main.cpp
+	"Date.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1584508481 c:\users\tong\desktop\c++odes\dateclass\date.h
+	<vector>
+	<string>
+
